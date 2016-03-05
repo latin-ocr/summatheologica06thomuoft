@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./summatheologica06thomuoft_0681.png"; bbox 0 0 2242 3814; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 579 1058 587 1700">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 579 1058 587 1700">
+     <span class='ocr_line' id='line_1_1' title="bbox 579 1058 587 1700; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 579 1058 587 1700; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1011 2775 1719 2889">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1011 2775 1719 2889">
+     <span class='ocr_line' id='line_1_2' title="bbox 1011 2775 1719 2826; baseline 0.01 -12"><span class='ocrx_word' id='word_1_2' title='bbox 1011 2775 1159 2816; x_wconf 82' lang='lat' dir='ltr'>Acme</span> <span class='ocrx_word' id='word_1_3' title='bbox 1178 2776 1374 2826; x_wconf 84' lang='lat' dir='ltr'><strong>Library</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1395 2778 1519 2818; x_wconf 85' lang='lat' dir='ltr'>Card</span> <span class='ocrx_word' id='word_1_5' title='bbox 1540 2779 1719 2821; x_wconf 84' lang='lat' dir='ltr'><strong>Pocket</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1072 2852 1660 2889; baseline 0.01 -6"><span class='ocrx_word' id='word_1_6' title='bbox 1072 2852 1196 2884; x_wconf 88' lang='lat' dir='ltr'>Under</span> <span class='ocrx_word' id='word_1_7' title='bbox 1212 2853 1291 2885; x_wconf 87' lang='lat' dir='ltr'>Pat.</span> <span class='ocrx_word' id='word_1_8' title='bbox 1310 2854 1415 2886; x_wconf 81' lang='lat' dir='ltr'><strong>“Ref.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1434 2854 1546 2887; x_wconf 84' lang='lat' dir='ltr'><strong>Index</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1561 2855 1660 2889; x_wconf 84' lang='lat' dir='ltr'><strong>File”</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 975 2909 1759 2968">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 975 2909 1759 2968">
+     <span class='ocr_line' id='line_1_4' title="bbox 975 2909 1759 2968; baseline 0.01 -11"><span class='ocrx_word' id='word_1_11' title='bbox 975 2918 1119 2958; x_wconf 81' lang='lat' dir='ltr'>Made</span> <span class='ocrx_word' id='word_1_12' title='bbox 1140 2919 1202 2968; x_wconf 81' lang='lat' dir='ltr'><strong>by</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1221 2909 1488 2961; x_wconf 85' lang='lat' dir='ltr'>LIBRARY</span> <span class='ocrx_word' id='word_1_14' title='bbox 1517 2922 1759 2966; x_wconf 82' lang='lat' dir='ltr'>BUREAU</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 4 0 2242 3814">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 4 0 2242 3814">
+     <span class='ocr_line' id='line_1_5' title="bbox 4 0 2242 3814; baseline 0 0"><span class='ocrx_word' id='word_1_15' title='bbox 4 0 2242 3814; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
